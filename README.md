@@ -3,15 +3,19 @@
 注册RF：https://klokapp.ai?referral_code=KMLZ7JF7
 
 
-# klokai bot怎么用？
-1、批量注册
+# klokai bot 1.1 怎么用？
+## 1、生成配置文件
 
 修改：eth_addresses.txt，eth_private_keys.txt，proxy.txt，ref_code.txt 4个文件行数必须一样
 
 然后运行脚本->2
 
+将生成的config/output.json内容替换成config.json
 
-2、wallets.json 由系统生成，也可以手工创建
+## 2、批量注册
+然后运行脚本->3->1
+
+## 3、wallets.json 由系统生成，也可以手工创建
 ```json
 [
   {
