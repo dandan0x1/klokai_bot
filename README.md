@@ -10,7 +10,6 @@
 
 然后运行脚本->2
 
-将生成的config/output.json内容替换成config.json
 
 ## 2、批量注册
 然后运行脚本->3->1
